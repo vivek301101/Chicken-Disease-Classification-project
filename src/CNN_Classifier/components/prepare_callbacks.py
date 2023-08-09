@@ -3,7 +3,7 @@ import urllib.request as request
 from zipfile import ZipFile
 import tensorflow as tf
 import time
-from CNN_Classifier.entity.config_entity import PrepareBaseModelConfig
+from CNN_Classifier.entity.config_entity import PrepareCallbacksConfig
 
 
 
